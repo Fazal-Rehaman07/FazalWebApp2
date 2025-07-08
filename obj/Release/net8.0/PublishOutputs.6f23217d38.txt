@@ -1,0 +1,7 @@
+C:\Users\Fazal\WebApp_Deploy\FazalWebApp\bin\Release\net8.0\publish\FazalWebApp.exe
+C:\Users\Fazal\WebApp_Deploy\FazalWebApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Fazal\WebApp_Deploy\FazalWebApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Fazal\WebApp_Deploy\FazalWebApp\bin\Release\net8.0\publish\FazalWebApp.dll
+C:\Users\Fazal\WebApp_Deploy\FazalWebApp\bin\Release\net8.0\publish\FazalWebApp.deps.json
+C:\Users\Fazal\WebApp_Deploy\FazalWebApp\bin\Release\net8.0\publish\FazalWebApp.runtimeconfig.json
+C:\Users\Fazal\WebApp_Deploy\FazalWebApp\bin\Release\net8.0\publish\FazalWebApp.pdb
